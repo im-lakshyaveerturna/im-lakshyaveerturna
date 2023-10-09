@@ -2,7 +2,7 @@ __HI THERE, I'M LAKSHYAVEER__
 
 💡 looking to collaborate on innovative ideas
 
-📪 lakshyaveerturna@gmail.com / th.is.lakshyaveerturna@gmail.com
+📪 Drop a mail at lakshyaveerturna@gmail.com / th.is.lakshyaveerturna@gmail.com
 
 
 <!---
