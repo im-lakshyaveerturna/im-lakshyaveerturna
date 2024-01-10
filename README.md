@@ -1,6 +1,6 @@
-# 👋 __HI THERE, I'M LAKSHYAVEER__
+#  🖥️ __Hi there, I'm Lakshyaveer__
 
-💡 looking to collaborate on innovative ideas
+💡 Willing to collaborate on innovative ideas
 
 📪 Drop a mail at __lakshyaveerturna@gmail.com / th.is.lakshyaveerturna@gmail.com__
 
