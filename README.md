@@ -5,7 +5,7 @@
 📪 Drop a mail at __lakshyaveerturna@gmail.com / th.is.lakshyaveerturna@gmail.com__
 
 
-## Tech suppoprt
+## Tech Suppoprt
 <a href="https://python.org">
   <img src="https://camo.githubusercontent.com/0562f16a4ae7e35dae6087bf8b7805fb7e664a9e7e20ae6d163d94e56b94f32d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534" alt="Description 2" >
 </a>
@@ -31,7 +31,7 @@
 
 
 
-## Meet me on
+## Social
 
 <a href="https://discordapp.com/users/884461843760971826">
   <img src="https://camo.githubusercontent.com/bb2913a71d7513370db93a85a313af402b1a41e3ceccb2a87f46847601c05cda/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d2532333538363546322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465" alt="Description 2" >
