@@ -2,7 +2,7 @@
 
 💡 Willing to collaborate on innovative ideas
 
-📪 Drop a mail at __lakshyaveerturna@gmail.com / th.is.lakshyaveerturna@gmail.com__
+📪 Drop a mail at __th.is.lakshyaveerturna@outlook.com__
 
 
 ## Fascinated by
