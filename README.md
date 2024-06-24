@@ -36,7 +36,7 @@
 
   </h3>
   
-## Wanna know me more?
+## Let's meet on
 
 <h3>
   <a href="https://discordapp.com/users/884461843760971826">
