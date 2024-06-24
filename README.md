@@ -11,7 +11,7 @@
     <img src="https://skillicons.dev/icons?i=python" />
   </a>
 
-  <a href="javascript.com">
+  <a href="https://javascript.com">
     <img src="https://skillicons.dev/icons?i=js" />
   </a>
   
