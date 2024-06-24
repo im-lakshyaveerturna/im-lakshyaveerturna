@@ -6,13 +6,38 @@
 
 
 ## Fascinated by
+<h3>
+  <a href="https://python.org">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
 
-[![My Skills](https://skillicons.dev/icons?i=python,dart,js,html,css,flutter,react)](https://skillicons.dev)
+  <a href="javascript.com">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+  
+  <a href="https://html.com">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
 
+  <a href="https://www.w3schools.com/css/">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
 
+  <a href="https://dart.dev/">
+    <img src="https://skillicons.dev/icons?i=dart" />
+  </a>
+  
+  <a href="https://flutter.dev">
+    <img src="https://skillicons.dev/icons?i=flutter" />
+  </a>
+    <a href="https://react.dev/">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+
+  </h3>
 ## Wanna know me more?
 
-<p 
+<h3>
   <a href="https://discordapp.com/users/884461843760971826">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
@@ -26,7 +51,7 @@
   </a>
 
   
-</p>
+</h3>
 
 
 
