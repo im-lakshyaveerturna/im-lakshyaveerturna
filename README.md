@@ -36,20 +36,13 @@
 
   </h3>
   
-## Let's meet on
+## Contact me on
 
 <h3>
   <a href="https://discordapp.com/users/884461843760971826">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 
-  <a href="https://x.com/GreenMongoose_">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-  
-  <a href="https://stackoverflow.com/users/22088314/lakshyaveer">
-    <img src="https://skillicons.dev/icons?i=stackoverflow" />
-  </a>
 
   
 </h3>
